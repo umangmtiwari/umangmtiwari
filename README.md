@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Umang</h1>
 
-<h3 align="left">Checkout my Portfolio:</h3>
-<p align="left">
+<h2 align="left">Checkout my Portfolio:</h3>
+<h3 align="left">
 <a href="https://umang-tiwari-portfolio.vercel.app" target="blank">Portfolio</a>
-</p>
+</h3>
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />            
 <br>
