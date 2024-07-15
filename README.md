@@ -4,7 +4,7 @@
 
 <h2 align="left">Checkout my Portfolio:</h3>
 <h3 align="left">
-<a href="https://umang-tiwari-portfolio.vercel.app" target="blank">Portfolio</a>
+<a href="https://umang-tiwari-portfolio.vercel.app" target="blank">https://umang-tiwari-portfolio.vercel.app/</a>
 </h3>
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />            
