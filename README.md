@@ -1,13 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://umang-tiwari-portfolio.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Umang</h1>
-<a href="https://umang-tiwari-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-  <h3 align="center">Portfolio</h3>
-</a>
 
 <h3 align="left">Checkout my Portfolio:</h3>
 <p align="left">
-<a href="https://umang-tiwari-portfolio.vercel.app" target="blank"><img align="center" height="30" width="40" /> Portfolio</a>
+<a href="https://umang-tiwari-portfolio.vercel.app" target="blank">Portfolio</a>
 </p>
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />            
