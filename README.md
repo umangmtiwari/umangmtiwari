@@ -5,9 +5,9 @@
   <h3 align="center">Portfolio</h3>
 </a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Checkout my Portfolio:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umang-tiwari-252616210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-tiwari-252616210" height="30" width="40" /></a>
+<a href="https://umang-tiwari-portfolio.vercel.app" target="blank"><img align="center" height="30" width="40" /> Portfolio</a>
 </p>
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />            
